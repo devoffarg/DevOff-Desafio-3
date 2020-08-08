@@ -1,13 +1,31 @@
 ![](https://static-cdn.jtvnw.net/jtv_user_pictures/fb425ddf-5e67-4c84-9210-8065809675f7-profile_banner-480.png)
-# Desafío [número] - [fecha]
+# Desafío 3 - 09/08/2020
 
-[Descripción de desafío]
+Para este desafío, haremos uso de la API de Canvas en JavaScript y ¡crearemos una herramienta para dibujar en la Web!
+
+Deberás implementar al menos dos de estas características:
+
+- Selección de color
+- Guardado de imagen
+- Configuración del espesor del grosor
+- Configuración del tamaño del lienzo
+- Pincel con textura
+- Goma de borrar
+
+Algunos ejemplos:
+
+- [HTML5 Canvas JavaSCript drawing app with bucket tool](http://www.williammalone.com/projects/html5-canvas-javascript-drawing-app-with-bucket-tool/demo/drawing-app-with-bucket.html)
+- [Sketch Pad](http://htmlpreview.github.io/?https://raw.githubusercontent.com/krisrak/html5-canvas-drawing-app/master/index.html) (presionar "New" al entrar)
+
 
 ## Condiciones del desafío
 
-⛔ Algo que NO se puede hacer
-
-✅ Algo que se puede hacer
+```
+✅ Deberás utilizar un elemento `<canvas>`.
+✅ Podrás usar librerías facilitadoras como jQuery.
+⛔ No podrás agregar librerías externas relacionadas a Canvas.
+⛔ Si usas jQuery, no podrás instalar plugins o complementos de jQuery.
+```
 
 ## 📚 Herramientas de consulta
 
