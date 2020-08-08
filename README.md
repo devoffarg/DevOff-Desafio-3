@@ -56,7 +56,13 @@ Cuando finalices la resolución del desafío, no olvides subir todos tus cambios
 
 [Podés hacer clic aquí y mágicamente se descargará un archivo comprimido con todo lo que contiene este repositorio](https://github.com/devoffarg/DevOff-Desafio-3/archive/master.zip).
 
-Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo tu trabajo a través de [WeTransfer](https://wetransfer.com/).
+Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo tu trabajo a través de [WeTransfer](https://wetransfer.com/) o una carpeta compartida en Google Drive.
+
+## ⚖ Código de conducta
+
+Participar de DevOff implica la aceptación de nuestro [Código de Conducta](https://github.com/devoffarg/codigo-de-conducta). 
+
+Ante cualquier consulta, podrás recurrir a nuestro [equipo de moderación](https://github.com/devoffarg/codigo-de-conducta#protocolo-de-moderaci%C3%B3n).
 
 ## 💜 Agradecimientos
 
