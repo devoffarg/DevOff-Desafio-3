@@ -17,7 +17,6 @@ Algunos ejemplos:
 - [HTML5 Canvas JavaSCript drawing app with bucket tool](http://www.williammalone.com/projects/html5-canvas-javascript-drawing-app-with-bucket-tool/demo/drawing-app-with-bucket.html)
 - [Sketch Pad](http://htmlpreview.github.io/?https://raw.githubusercontent.com/krisrak/html5-canvas-drawing-app/master/index.html) (presionar "New" al entrar)
 
-
 ## Condiciones del desafío
 
 ```
@@ -46,7 +45,7 @@ Hacé un fork de este repo:
 Cloná tu fork, reemplazando `[TU_ALIAS]` con el nombre de tu cuenta de GitHub. Podés clonarlo utilizando la consola:
 
 ```
-git clone https://github.com/[TU_ALIAS]/DevOff-Desafio-2
+git clone https://github.com/[TU_ALIAS]/DevOff-Desafio-3
 ```
 
 También podés utilizar GitHub Desktop, tu IDE favorito, lo que gustes.
@@ -55,7 +54,7 @@ Cuando finalices la resolución del desafío, no olvides subir todos tus cambios
 
 ### Si no tenés una cuenta en GitHub
 
-[Podés hacer clic aquí y mágicamente se descargará un archivo comprimido con todo lo que contiene este repositorio](https://github.com/devoffarg/DevOff-Desafio-2/archive/master.zip).
+[Podés hacer clic aquí y mágicamente se descargará un archivo comprimido con todo lo que contiene este repositorio](https://github.com/devoffarg/DevOff-Desafio-3/archive/master.zip).
 
 Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo tu trabajo a través de [WeTransfer](https://wetransfer.com/).
 
@@ -64,7 +63,7 @@ Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo t
 ### Jurados
 
 - ¡Gracias a [Gonzalo Pozzo](https://twitter.com/goncy) y [Magalí Domínguez](https://twitter.com/printmaga) por ser nuestros jurados!
-- ¡Un agradecimiento especial a [Nombre del jurado invitado](https://twitter.com/@JuradoInvitado), el jurado invitado de esta edición!
+- ¡Un agradecimiento especial a [Johanna Santos](https://twitter.com/JohannaBleu), la jurado invitada de esta edición!
 
 ### Organizaciones aliadas
 
