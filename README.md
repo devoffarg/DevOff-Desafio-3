@@ -14,7 +14,7 @@ Deberás implementar al menos dos de estas características:
 
 Algunos ejemplos:
 
-- [HTML5 Canvas JavaSCript drawing app with bucket tool](http://www.williammalone.com/projects/html5-canvas-javascript-drawing-app-with-bucket-tool/demo/drawing-app-with-bucket.html)
+- [HTML5 Canvas JavaScript drawing app with bucket tool](http://www.williammalone.com/projects/html5-canvas-javascript-drawing-app-with-bucket-tool/demo/drawing-app-with-bucket.html)
 - [Sketch Pad](http://htmlpreview.github.io/?https://raw.githubusercontent.com/krisrak/html5-canvas-drawing-app/master/index.html) (presionar "New" al entrar)
 
 ## Condiciones del desafío
