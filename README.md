@@ -7,7 +7,7 @@ Deberás implementar al menos dos de estas características:
 
 - Selección de color
 - Guardado de imagen
-- Configuración del espesor del grosor
+- Configuración del espesor del pincel
 - Configuración del tamaño del lienzo
 - Pincel con textura
 - Goma de borrar
