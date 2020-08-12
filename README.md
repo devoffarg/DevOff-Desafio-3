@@ -79,24 +79,22 @@ Ante cualquier consulta, podrás recurrir a nuestro [equipo de moderación](http
 
 DevOff Argentina es un proyecto ideado por [Aldana Denise](https://twitter.com/gizmowis), con el apoyo de [CoDeAr](https://twitter.com/somoscodear).
 
-<!--
 ## 🚀 Soluciones
 
 ¡A continuación, listamos todas las soluciones que se fueron presentando para este desafío!
 
 🌟 Participantes EN VIVO:
 
-- Link, por Dev
+- https://github.com/daianaszwimer/DevOff-Desafio-3, por Daiana Szwimer 🏆
+- https://github.com/Gamzeescript/DevOff-Desafio-3, por Michelle Girón
+- https://github.com/jenaro94/DevOff-Desafio-3, por Jenaro Calvino
 
 💜 Participantes de la comunidad:
 
-- Link, por Dev
-
-o
-
-### Lenguaje
-
-- Link, por Dev
--->
+- https://github.com/FedericoLeiva12/DevOff-Desafio-3, por [Federico Leiva](https://twitter.com/InvBoyD/status/1292613118783356928)
+- https://github.com/gbobr/DevOff-Desafio-3, por [Germán Bobr](https://twitter.com/GermanBobr/status/1292613578235826176)
+- https://github.com/hdf1986/DevOff-Desafio-3, por [Hugo Farji](https://twitter.com/hdf1996/status/1292597958903562240)
+- https://drau.vercel.app, oor [Eli José Carrasquero](https://twitter.com/ielijose/status/1292619770660032517)
+- https://github.com/Lefcott/DevOff-Desafio-3, por Leandro Cotti
 
 # ¡Muchos éxitos y a codear!
